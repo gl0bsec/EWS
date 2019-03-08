@@ -1,0 +1,15 @@
+{
+  "name": "nlp-app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron-rebuild": "^1.8.4",
+    "zerorpc": "0rpc/zerorpc-node"
+  },
+  "devDependencies": {
+    "electron": "^4.0.4",
+    "electron-builder": "^20.38.5"
+  }
+}
