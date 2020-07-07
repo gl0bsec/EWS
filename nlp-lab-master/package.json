@@ -9,7 +9,7 @@
     "zerorpc": "0rpc/zerorpc-node"
   },
   "devDependencies": {
-    "electron": "^4.0.4",
+    "electron": "^7.2.4",
     "electron-builder": "^20.38.5"
   }
 }
